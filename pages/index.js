@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hey! You're statement is a fallacy!" />
         <p className="description">
-          It's probably <a href="https://en.wikipedia.org/wiki/List_of_fallacies">one of these</a>.</code>
+          It's probably <a href="https://en.wikipedia.org/wiki/List_of_fallacies">one of these</a>.
         </p>
       </main>
 
