@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
-export default function NoTrueScottsman() {
+export default function NoTrueScotsman() {
   return (
     <div className="container">
       <Head>
@@ -13,7 +13,7 @@ export default function NoTrueScottsman() {
       <main>
         <Header title="Hey! Your argument is a fallacy!" />
         <p className="description">
-          It's a <a href="https://en.wikipedia.org/wiki/No_true_Scotsman">"no true Scottsman" informal fallacy</a>!
+          It's a <a href="https://en.wikipedia.org/wiki/No_true_Scotsman">"no true Scotsman" informal fallacy</a>!
         </p>
     <p>
     The “No True Scotsman” fallacy is committed when the arguer satisfies the following conditions:
