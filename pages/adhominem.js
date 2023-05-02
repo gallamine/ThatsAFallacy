@@ -13,7 +13,7 @@ export default function AdHominem() {
       <main>
         <Header title="Hey! Your argument is a fallacy!" />
         <p className="description">
-          It's a <a href="https://en.wikipedia.org/wiki/Ad_hominem">genetic informal fallacy</a>!
+          It's an <a href="https://en.wikipedia.org/wiki/Ad_hominem">ad hominem informal fallacy</a>!
         </p>
 <h1>Examples of the Ad Hominem Fallacy</h1>
     <ol>
